@@ -1,0 +1,11 @@
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\bin\Debug\İspanyolcaSözlük.exe.config
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\bin\Debug\İspanyolcaSözlük.exe
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\bin\Debug\İspanyolcaSözlük.pdb
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\obj\Debug\İspanyolcaSözlük.csprojAssemblyReference.cache
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\obj\Debug\İspanyolcaSözlük.Form1.resources
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\obj\Debug\İspanyolcaSözlük.Properties.Resources.resources
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\obj\Debug\İspanyolcaSözlük.csproj.GenerateResource.cache
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\obj\Debug\İspanyolcaSözlük.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\obj\Debug\İspanyolcaSözlük.exe
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\obj\Debug\İspanyolcaSözlük.pdb
+C:\Users\ABRA\source\repos\İspanyolcaSözlük\İspanyolcaSözlük\obj\Debug\İspanyolcaSözlük.Form2.resources
